@@ -76,6 +76,9 @@ hr {
 .flex2 {
   padding-top: 24px !important;
 }
+.list_projects {
+  padding-left: 19px;
+}
 @media (max-width: 767.98px) {
   .flex2 {
     display: flex;
