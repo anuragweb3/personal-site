@@ -80,8 +80,8 @@ hr {
   .flex2 {
     display: flex;
     flex-direction: column;
-    }
-  .list_projects {
-    padding-right: 60px;
+  }
+  .main_list {
+    margin-left: 20px;
   }
 }
